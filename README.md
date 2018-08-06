@@ -9,6 +9,10 @@ This repository is a curated list of papers and open source code for 6D Object P
 * Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - Thanh-Toan Do, Ming Cai, Trung Pham, Ian Reid. [[Paper]](https://arxiv.org/pdf/1802.10367.pdf)
 
 ## Code
+* [PoseCNN](https://github.com/yuxng/PoseCNN)
+* [Single Shot Pose Estimation](https://github.com/Microsoft/singleshotpose)
+* [SSD-6D](https://github.com/wadimkehl/ssd-6d)
+
 
 ## Datasets
 * LINEMOD
@@ -17,3 +21,5 @@ This repository is a curated list of papers and open source code for 6D Object P
 * Falling Things [[Dataset]](http://research.nvidia.com/publication/2018-06_Falling-Things) [[Paper]](https://arxiv.org/pdf/1804.06534.pdf) 
 
 ## Tutorials
+* Real-time pose estimation of a textured object[[Link]](https://docs.opencv.org/3.3.0/dc/d2c/tutorial_real_time_pose.html)
+* Pose estimation from points[[Link]](http://visp-doc.inria.fr/doxygen/visp-daily/tutorial-pose-estimation.html)
