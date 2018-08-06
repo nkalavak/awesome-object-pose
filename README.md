@@ -6,7 +6,9 @@ This repository is a curated list of papers and open source code for 6D Object P
 * BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth - Mahdi Rad, Vincent Lepetit. [[Paper]](https://arxiv.org/abs/1703.10896)
 * Real-Time Seamless Single Shot 6D Object Pose Prediction - Bugra Tekin, Sudipta N. Sinha, Pascal Fua. [[Paper]](https://arxiv.org/pdf/1711.08848.pdf)
 * SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again - Wadim Kehl, Fabian Manhardt, Federico Tombari, Slobodan Ilic, Nassir Navab. [[Paper]](https://arxiv.org/pdf/1711.10006.pdf)
-* Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - Thanh-Toan Do, Ming Cai, Trung Pham, Ian Reid. [[Paper]](https://arxiv.org/pdf/1802.10367.pdf)
+* Deep-6DPose: Recovering 6D Object Pose from a SingThe MOPED framework: Object recognition and pose estimation for manipulation - le RGB Image - Thanh-Toan Do, Ming Cai, Trung Pham, Ian Reid. [[Paper]](https://arxiv.org/pdf/1802.10367.pdf)
+* The MOPED framework: Object recognition and pose estimation for manipulation - Alvaro Collet Romea, Manuel Martinez Torres and Siddhartha Srinivasa. [[Paper]](https://www.ri.cmu.edu/pub_files/2011/9/moped.pdf)
+
 
 ## Code
 * [PoseCNN](https://github.com/yuxng/PoseCNN)
