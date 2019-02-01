@@ -26,6 +26,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 * [Single Shot Pose Estimation](https://github.com/Microsoft/singleshotpose)
 * [SSD-6D](https://github.com/wadimkehl/ssd-6d)
 * [Dope Object Pose Estimation](https://github.com/NVlabs/Deep_Object_Pose)
+* [Pose Interpreter Networks](https://github.com/jimmyyhwu/pose-interpreter-networks)
 
 
 ## Datasets
