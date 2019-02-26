@@ -2,10 +2,11 @@
 This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 
 ## Papers
+* Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - Martin Sundermeyer, Zoltan-Csaba Marton, Maxmilian Durner, Manuel Brucker and Rudolph Triebel. [[Paper]](https://arxiv.org/pdf/1902.01275v1.pdf)
 * DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion - Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martín-Martín, Cewu Lu, Li Fei-Fei, Silvio Savarese. [[Paper]](https://arxiv.org/pdf/1901.04780.pdf)
 * Real-Time 6D Object Pose Estimation on CPU - Yoshinori Konishi, Kosuke Hattori, Manabu Hashimoto. [[Paper]](https://arxiv.org/pdf/1811.08588.pdf)
 * Holistic and local patch framework for 6D object pose estimation in RGB-D images - Haoruo Zhang, Qixin Cao. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314219300050)
-* Real-Time 6D Object Pose Estimation on CPU - Yoshinori Konishi, Kosuke Hattori, Manabu Hashimoto. [[Paper]](https://arxiv.org/pdf/1811.08588.pdf)
+* Estimating 6D Pose From Localizing Designated Surface Keypoints - Zelin Zhao, Gao Peng, Haoyu Wang, Hao-Shu Fang, Chengkun Li, Cewu Lu. [[Paper]](https://arxiv.org/pdf/1812.01387v1.pdf)
 * Real-Time Object Pose Estimation with Pose Interpreter Networks- Jimmy Wu, Bolei Zhou, Rebecca Russell, Vincent Kee, Syler Wagner, Mitchell Hebert, Antonio Torralba, David M.S. Johnson. [[Paper]](https://arxiv.org/pdf/1808.01099.pdf)
 * Segmentation-driven 6D Object Pose Estimation - Yinlin Hu, Joachim Hugonot, Pascal Fua, Mathieu Salzmann. [[Paper]](https://arxiv.org/pdf/1812.02541.pdf)
 * Robust 6D Object Pose Estimation with Stochastic Congruent Sets - Chaitanya Mitash, Abdeslam Boularias, Kostas E. Bekris. [[Paper]](http://bmvc2018.org/contents/papers/1046.pdf)
@@ -30,7 +31,11 @@ This repository is a curated list of papers and open source code for 6D Object P
 * [SSD-6D](https://github.com/wadimkehl/ssd-6d)
 * [Dope Object Pose Estimation](https://github.com/NVlabs/Deep_Object_Pose)
 * [Pose Interpreter Networks](https://github.com/jimmyyhwu/pose-interpreter-networks)
-
+* [Tools for Evaluation of 6D Object Pose Estimation](https://github.com/thodan/obj_pose_eval)
+* [Augmented Autoencoder](https://github.com/DLR-RM/AugmentedAutoencoder)
+* [DeepIM](https://github.com/liyi14/mx-DeepIM)
+* [DenseFusion](https://github.com/j96w/DenseFusion)
+* [BetaPose](https://github.com/sjtuytc/betapose)
 
 ## Datasets
 * LINEMOD
