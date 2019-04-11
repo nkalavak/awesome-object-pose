@@ -2,6 +2,10 @@
 This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 
 ## Papers
+* Summary of the 4th International Workshopon Recovering 6D Object Pose - Tomas Hodan, Rigas Kouskouridas, Tae-Kyun Kim, Federico Tombari, Kostas Bekris, Bertram Drost, Thibault Groueix, Krzysztof Walas, Vincent Lepetit, Ales Leonardis, Carsten Steger, Frank Michel, Caner Sahin, Carsten Rother, Jirı Matas. [[Paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Hodan_A_Summary_of_the_4th_International_Workshop_onRecovering_6D_Object_ECCVW_2018_paper.pdf)
+* DeepIM: Deep Iterative Matching for 6D Pose Estimation - Yi Li, Gu Wang, Xiangyang Ji, Yu Xiang, Dieter Fox. [[Paper]](https://arxiv.org/pdf/1804.00175.pdf)
+* Category-level 6D Object Pose Recovery in Depth Images - Caner Sahin and Tae-Kyun Kim. [[Paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Sahin_Category-level_6D_Object_Pose_Recovery_in_Depth_Images_ECCVW_2018_paper.pdf)
+* Matching RGB Images to CAD Models for Object Pose Estimation - Georgios Georgakis, Srikrishna Karanam, Ziyan Wu, and Jana Kosecka. [[Paper]](https://arxiv.org/pdf/1811.07249.pdf)
 * Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - Martin Sundermeyer, Zoltan-Csaba Marton, Maxmilian Durner, Manuel Brucker and Rudolph Triebel. [[Paper]](https://arxiv.org/pdf/1902.01275v1.pdf)
 * DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion - Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martín-Martín, Cewu Lu, Li Fei-Fei, Silvio Savarese. [[Paper]](https://arxiv.org/pdf/1901.04780.pdf)
 * Real-Time 6D Object Pose Estimation on CPU - Yoshinori Konishi, Kosuke Hattori, Manabu Hashimoto. [[Paper]](https://arxiv.org/pdf/1811.08588.pdf)
