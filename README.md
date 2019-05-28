@@ -2,6 +2,7 @@
 This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 
 ## Papers
+* PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation -  Sida Peng, Yuan Liu, Qixing Huang, Xiaowei Zhou, Hujun Bao. [[Paper]](https://arxiv.org/pdf/1812.11788.pdf)
 * Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation -  He Wang, Srinath Sridhar, Jingwei Huang, Julien Valentin, Shuran Song, Leonidas J. Guibas. [[Paper]](https://arxiv.org/pdf/1901.02970v1.pdf)
 * DPOD: 6D Pose Object Detector and Refiner - Sergey Zakharov, Ivan Shugurov, Slobodan Ilic. [[Paper]](https://arxiv.org/pdf/1902.11020v2.pdf)
 * Instance- and Category-level 6D Object Pose Estimation - Caner Sahin, Guillermo Garcia-Hernando, Juil Sock, Tae-Kyun Kim. [[Paper]](https://arxiv.org/pdf/1903.04229v1.pdf)
@@ -46,6 +47,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 * [DeepIM](https://github.com/liyi14/mx-DeepIM)
 * [DenseFusion](https://github.com/j96w/DenseFusion)
 * [BetaPose](https://github.com/sjtuytc/betapose)
+* [PVNet](https://github.com/zju3dv/pvnet)
 
 ## Datasets
 * LINEMOD
