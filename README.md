@@ -2,6 +2,10 @@
 This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 
 ## Papers
+* Segmentation-driven 6D Object Pose Estimation - Yinlin Hu, Joachim Hugonot, Pascal Fua, Mathieu Salzmann.[[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Segmentation-Driven_6D_Object_Pose_Estimation_CVPR_2019_paper.pdf)
+* HybridPose: 6D Object Pose Estimation under Hybrid Representations - Chen Song, Jiaru Song, Qixing Huang. [[Paper]](https://arxiv.org/pdf/2001.01869.pdf)
+* Single-Stage 6D Object Pose Estimation - Yinlin Hu,Pascal Fua,Wei Wang,Mathieu Salzmann. [[Paper]](https://arxiv.org/pdf/1911.08324.pdf)
+* SilhoNet: An RGB Method for 6D Object Pose Estimation - Gideon Billings, Matthew Johnson-Roberson. [[Paper]](https://arxiv.org/pdf/1809.06893.pdf)
 * PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation -  Sida Peng, Yuan Liu, Qixing Huang, Xiaowei Zhou, Hujun Bao. [[Paper]](https://arxiv.org/pdf/1812.11788.pdf)
 * Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation -  He Wang, Srinath Sridhar, Jingwei Huang, Julien Valentin, Shuran Song, Leonidas J. Guibas. [[Paper]](https://arxiv.org/pdf/1901.02970v1.pdf)
 * DPOD: 6D Pose Object Detector and Refiner - Sergey Zakharov, Ivan Shugurov, Slobodan Ilic. [[Paper]](https://arxiv.org/pdf/1902.11020v2.pdf)
@@ -37,6 +41,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 
 
 ## Code
+* [HybridPose](https://github.com/chensong1995/HybridPose)
 * [PoseCNN](https://github.com/yuxng/PoseCNN)
 * [Single Shot Pose Estimation](https://github.com/Microsoft/singleshotpose)
 * [SSD-6D](https://github.com/wadimkehl/ssd-6d)
