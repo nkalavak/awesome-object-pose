@@ -2,6 +2,9 @@
 This repository is a curated list of papers and open source code for 6D Object Pose Estimation.
 
 ## Papers
+* BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models[[Paper](https://arxiv.org/pdf/2108.00516.pdf)]
+* se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains[[Paper](https://arxiv.org/pdf/2007.13866.pdf)]
+* Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands[[Paper](https://arxiv.org/pdf/2003.03518.pdf)]
 * Segmentation-driven 6D Object Pose Estimation - Yinlin Hu, Joachim Hugonot, Pascal Fua, Mathieu Salzmann.[[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Segmentation-Driven_6D_Object_Pose_Estimation_CVPR_2019_paper.pdf)
 * HybridPose: 6D Object Pose Estimation under Hybrid Representations - Chen Song, Jiaru Song, Qixing Huang. [[Paper]](https://arxiv.org/pdf/2001.01869.pdf)
 * Single-Stage 6D Object Pose Estimation - Yinlin Hu,Pascal Fua,Wei Wang,Mathieu Salzmann. [[Paper]](https://arxiv.org/pdf/1911.08324.pdf)
@@ -29,7 +32,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 * Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects - Jonathan Tremblay, Thang To, Balakumar Sundaralingam, Yu Xiang, Dieter Fox, Stan Birchfield. [[Paper]](https://arxiv.org/pdf/1809.10790.pdf)
 * PoseCNN: Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes - Yu Xiang, Tanner Schmidt, Venkatraman Narayanan and Dieter Fox. [[Paper]](https://arxiv.org/pdf/1711.00199.pdf)
 * Multi-view 6D Object Pose Estimation and Camera Motion Planning Using RGBD Images - Juil Sock, S. Hamidreza Kasaei, Luís Seabra Lopes, Tae-Kyun Kim. [[Paper]](https://ieeexplore.ieee.org/document/8265470)
-* Global Hypothesis Generation for 6D Object Pose Estimation - Frank Michel, Alexander Kirillov,Eric Brachmann, Alexander Krull, Stefan Gumhold, Bogdan Savchynskyy, Carsten Rother. [[Paper]](https://ieeexplore.ieee.org/document/8099503) 
+* Global Hypothesis Generation for 6D Object Pose Estimation - Frank Michel, Alexander Kirillov,Eric Brachmann, Alexander Krull, Stefan Gumhold, Bogdan Savchynskyy, Carsten Rother. [[Paper]](https://ieeexplore.ieee.org/document/8099503)
 * BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth - Mahdi Rad, Vincent Lepetit. [[Paper]](https://arxiv.org/abs/1703.10896)
 * Real-Time Seamless Single Shot 6D Object Pose Prediction - Bugra Tekin, Sudipta N. Sinha, Pascal Fua. [[Paper]](https://arxiv.org/pdf/1711.08848.pdf)
 * SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again - Wadim Kehl, Fabian Manhardt, Federico Tombari, Slobodan Ilic, Nassir Navab. [[Paper]](https://arxiv.org/pdf/1711.10006.pdf)
@@ -41,6 +44,9 @@ This repository is a curated list of papers and open source code for 6D Object P
 
 
 ## Code
+* [BundleTrack](https://github.com/wenbowen123/BundleTrack)
+* [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking)
+* [Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands](https://arxiv.org/pdf/2003.03518.pdf)
 * [HybridPose](https://github.com/chensong1995/HybridPose)
 * [PoseCNN](https://github.com/yuxng/PoseCNN)
 * [Single Shot Pose Estimation](https://github.com/Microsoft/singleshotpose)
@@ -58,8 +64,10 @@ This repository is a curated list of papers and open source code for 6D Object P
 * LINEMOD
 * OccludedLINEMOD
 * YCB Video Dataset [[Dataset]](https://rse-lab.cs.washington.edu/projects/posecnn/) [[Code]](https://github.com/yuxng/YCB_Video_toolbox)
-* Falling Things [[Dataset]](http://research.nvidia.com/publication/2018-06_Falling-Things) [[Paper]](https://arxiv.org/pdf/1804.06534.pdf) 
+* Falling Things [[Dataset]](http://research.nvidia.com/publication/2018-06_Falling-Things) [[Paper]](https://arxiv.org/pdf/1804.06534.pdf)
 * Rutgers 6D Object Pose Estimation [[Dataset]](http://www.pracsyslab.org/pose_estimation)
+* YCBInEOAT [[Dataset]](https://github.com/wenbowen123/iros20-6d-pose-tracking)
+* Occluded in-hand objects [[Dataset]](https://github.com/wenbowen123/icra20-hand-object-pose)
 
 ## Tutorials
 * Real-time pose estimation of a textured object[[Link]](https://docs.opencv.org/3.3.0/dc/d2c/tutorial_real_time_pose.html)
